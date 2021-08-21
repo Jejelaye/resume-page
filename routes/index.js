@@ -17,7 +17,7 @@ router.post('/', (request, res) => {
         service: 'gmail',
         auth: {
           user: 'todayhoday@gmail.com',
-          pass: 'qwer56ui'
+          pass: 'njlongejhtwxzntq'
         }
     });
 
